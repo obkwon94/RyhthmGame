@@ -1,0 +1,4 @@
+type,desc
+background,trackBackground.csv
+judgeline,JudgeLine.csv
+explosion,noteEffect.csv
